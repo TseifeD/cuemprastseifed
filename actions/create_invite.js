@@ -14,7 +14,7 @@ name: "Create Invite",
 // This is the section the action will fall into.
 //---------------------------------------------------------------------
 
-section: "Channel Control",
+section: "Invite Control",
 
 //---------------------------------------------------------------------
 // Action Subtitle
